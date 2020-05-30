@@ -65,7 +65,7 @@
 </repository>
 <snapshotRepository>
     <id>repo-custom</id>
-    <url>http://nexus-pam.apps.edwin-cluster.sandbox1243.opentlc.com/repository/maven-snapshots/</url>
+    <url>http://nexus-pam.apps.edwin-cluster.sandbox1243.opentlc.com/repository/pam/</url>
   </snapshotRepository>
 </distributionManagement>
   
