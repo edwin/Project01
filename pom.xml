@@ -60,12 +60,12 @@
   <distributionManagement>
 <repository>
 <id>repo-custom</id>
-<url>http://nexus-pam.apps.edwin-cluster.sandbox1243.opentlc.com/repository/maven-releases/</url>
+<url>http://nexus-pam.apps.edwin-cluster.sandbox1243.opentlc.com/repository/pam/</url>
 <layout>default</layout>
 </repository>
 <snapshotRepository>
     <id>repo-custom</id>
-    <url>http://nexus-pam.apps.edwin-cluster.sandbox1243.opentlc.com/repository/maven-snapshots/</url>
+    <url>http://nexus-pam.apps.edwin-cluster.sandbox1243.opentlc.com/repository/pam/</url>
   </snapshotRepository>
 </distributionManagement>
   
