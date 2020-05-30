@@ -28,7 +28,7 @@
       <include>true</include>
       <metadata>
         <id>repo-custom</id>
-        <url>http://nexus-pam.apps.edwin-cluster.sandbox1243.opentlc.com/repository/maven-snapshots/</url>
+        <url>http://nexus-pam.apps.edwin-cluster.sandbox1243.opentlc.com/repository/pam/</url>
         <source>DISTRIBUTION_MANAGEMENT</source>
       </metadata>
     </repository>
