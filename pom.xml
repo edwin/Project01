@@ -59,10 +59,14 @@
   
   <distributionManagement>
 <repository>
-<id>${maven-repo-id}</id>
-<url>${maven-repo-url}</url>
+<id>repo-custom</id>
+<url>http://nexus-pam.apps.edwin-cluster.sandbox1243.opentlc.com/repository/maven-releases/</url>
 <layout>default</layout>
 </repository>
+<snapshotRepository>
+    <id>repo-custom</id>
+    <url>http://nexus-pam.apps.edwin-cluster.sandbox1243.opentlc.com/repository/maven-snapshots/</url>
+  </snapshotRepository>
 </distributionManagement>
   
 </project>
