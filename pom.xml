@@ -56,8 +56,8 @@
       <scope>provided</scope>
     </dependency>
     <dependency>
-      <groupId>com.edw</groupId>
-      <artifactId>AnimeWorkItemHandler</artifactId>
+      <groupId>com.lele</groupId>
+      <artifactId>Lele</artifactId>
       <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
