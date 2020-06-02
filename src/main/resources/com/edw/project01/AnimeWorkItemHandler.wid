@@ -1,15 +1,14 @@
 [
   [
-    "name" : "MyTask", 
+    "name" : "AnimeWorkItemHandler", 
     "parameters" : [ 
-        "MyFirstParam" : new StringDataType(), 
-        "MySecondParam" : new StringDataType(), 
-        "MyThirdParam" : new ObjectDataType() 
+        "name" : new StringDataType() 
     ], 
     "results" : [ 
-        "Result" : new ObjectDataType("java.util.Map") 
+        "nameResponse" : new StringDataType(),
+        "imageUrl" : new StringDataType() 
     ], 
-    "displayName" : "My Task", 
+    "displayName" : "AnimeWorkItemHandler", 
     "icon" : "" 
   ]
 ]
