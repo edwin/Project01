@@ -16,12 +16,6 @@
             <parameters/>
             <name>Lele</name>
         </work-item-handler>
-        <work-item-handler>
-            <resolver>mvel</resolver>
-            <identifier>new com.edw.AnimeWorkItemHandler()</identifier>
-            <parameters/>
-            <name>AnimeWorkItemHandler</name>
-        </work-item-handler>
     </work-item-handlers>
     <environment-entries/>
     <configurations/>
