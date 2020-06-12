@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.edw</groupId>
   <artifactId>Project01</artifactId>
-  <version>1.0.17-SNAPSHOT</version>
+  <version>1.0.18-SNAPSHOT</version>
   <packaging>kjar</packaging>
   <name>Project01</name>
   <description></description>
@@ -79,7 +79,7 @@
     <dependency>
       <groupId>com.myspace</groupId>
       <artifactId>Project02</artifactId>
-      <version>1.0.8-SNAPSHOT</version>
+      <version>1.0.9-SNAPSHOT</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
